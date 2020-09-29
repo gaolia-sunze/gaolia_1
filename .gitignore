@@ -1,4 +1,4 @@
 # 忽略index.js文件
 index.js
 # 忽略test/的文件
-test/
+# test/
